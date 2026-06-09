@@ -147,5 +147,5 @@ The raw dataset conatined the following fields:
 
 * Airline_Data.csv – Raw airline dataset used for analysis.
   
-* Airline_Project.ipynb – Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), and visualizations.
+* Airline_Main_Project.ipynb – Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), and visualizations.
 
