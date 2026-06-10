@@ -16,8 +16,6 @@ The following tools and technologies were used in this project:
 
 * Seaborn – Used for statistical data visualization and enhanced plotting.
 
-* Plotly – Used for interactive and dynamic visualizations.
-
 * Jupyter Notebook – Used as the development environment for analysis and visualization.
 
 ## 4. Dataset 
@@ -104,8 +102,6 @@ The raw dataset conatined the following fields:
   * Used Matplotlib for foundational plotting.
   
   * Used Seaborn for statistical and enhanced visualizations.
-
-  * Used Plotly for interactive and dynamic visualizations.
   
 ## 6. Key Insights
 
